@@ -6,3 +6,5 @@ Added new line 👍
 kaža is trying to make a conflict here :))
 
 fixing something
+
+commit 1

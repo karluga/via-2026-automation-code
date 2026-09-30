@@ -25,3 +25,5 @@ yous if anything is real soup
 function greet(name) {
 return `Hello, ${name}!`;
 }
+
+console.log(greet("Kaža"));

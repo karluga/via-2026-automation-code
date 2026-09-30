@@ -23,6 +23,9 @@ everything if breaking
 yous if anything is real soup
 
 function greet(name) {
+if (!name) {
+return "Hello, stranger!";
+}
 return `Hello, ${name}!`;
 }
 

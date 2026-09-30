@@ -18,6 +18,10 @@ commit 7
 sgiruzgzhrtih.xireoh
 kkkkkk
 
-everything  if breaking
+everything if breaking
 
 yous if anything is real soup
+
+function greet(name) {
+return `Hello, ${name}!`;
+}
